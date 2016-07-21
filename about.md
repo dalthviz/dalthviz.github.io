@@ -5,6 +5,6 @@ subtitle: Subtitle
 ---
 
 
-### my history
+### My history
 
 To be honest, I'm having some trouble remembering right now...
