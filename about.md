@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
-subtitle: Subtitle
+title: about
 ---
 
 
-### My history
+### my history
 
 To be honest, I'm having some trouble remembering right now...
