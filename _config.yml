@@ -23,7 +23,9 @@ description: A virtual proof that Daniel is awesome!
 
 # List of links in the navigation bar
 navbar-links:
+
   About: "about"
+  CV: "https://dalthviz.github.io/CV"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
