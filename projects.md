@@ -1,10 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 ---
 
 
-### Projects were I have been working
+### Projects where I have been working
+
 
 #### FaMoSA
 
