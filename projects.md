@@ -9,7 +9,7 @@ title: Projects
 
 #### FaMoSA
 
-A web application for the edition and management of feature Models base in AngularJS, AngularFire and Firebase
+A web application for the edition and management of feature Models based in AngularJS, AngularFire and Firebase
 
 [FaMoSA Project Gitbook](https://dalthviz.github.io/gitbook-showcase)
 
