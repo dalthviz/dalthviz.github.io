@@ -26,6 +26,7 @@ navbar-links:
 
   About: "about"
   CV: "https://dalthviz.github.io/CV"
+  Projects: "projects"
   Resources:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
@@ -68,7 +69,7 @@ url-pretty: "dalthviz.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-83009930-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
