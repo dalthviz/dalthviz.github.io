@@ -1,12 +1,12 @@
 ---
 layout: page
-title: about
+title: projects
 ---
 
 
 ### Projects were I have been working
 
-####FaMoSA
+#### FaMoSA
 
 A web application for the edition and management of feature Models base in AngularJS, AngularFire and Firebase
 
